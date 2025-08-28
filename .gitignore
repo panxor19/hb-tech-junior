@@ -22,3 +22,7 @@ dist/
 # Others
 .env.local
 .env.*.local
+scripts/
+docs/*.docx
+docs/~$*.docx
+docs/~$*.html
