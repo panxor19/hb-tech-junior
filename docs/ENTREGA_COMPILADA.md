@@ -36,7 +36,7 @@ Se incluye la versión extendida en `Investigacion_Cliente.md`.
 Ver `FODA_Grupal.md`.
 
 ## 6. Enlace al repositorio en GitHub
-Pendiente de publicación: agregar URL aquí al hacer push.
+https://github.com/panxor19/hb-tech-junior
 
 ---
 
