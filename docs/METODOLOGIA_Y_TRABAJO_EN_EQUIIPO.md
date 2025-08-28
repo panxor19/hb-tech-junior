@@ -44,3 +44,8 @@
 - GitHub (repos, issues, PRs).  
 - Projects (Kanban) para seguimiento.  
 - Documentación en `/docs`.
+
+## Aprendizajes colectivos
+- Mejoramos la definición de DoD para evitar re-trabajo (formato, linters, pruebas).
+- Acordamos tiempos de revisión de PR (<24 h) para sostener el flujo.
+- Documentar métricas y resultados facilita la comunicación con terceros.

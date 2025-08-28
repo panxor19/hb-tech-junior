@@ -32,6 +32,12 @@ Definir modelo de datos y endpoints claros, asegurar validaciones en servidor y 
 - Diseño de API CRUD y manejo de estados/errores.
 - Importancia de pruebas y documentación para reproducibilidad.
 
+## Habilidades aplicadas
+- Modelado de datos y diseño de APIs RESTful.
+- Validaciones de negocio y manejo de errores estructurado.
+- Pruebas unitarias y automatización básica de calidad.
+- Documentación técnica y ejemplos de uso (DX).
+
 ## Rol
 Hector implementó endpoints/servicios, validaciones y pruebas base.
 

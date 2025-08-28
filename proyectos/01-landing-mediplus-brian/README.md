@@ -26,6 +26,12 @@ Construir una UI clara y liviana que mantenga consistencia visual, buen CLS y ac
 - Prácticas básicas de a11y (roles ARIA, contraste, semántica).
 - Optimización de recursos estáticos y evaluación con Lighthouse.
 
+## Habilidades aplicadas
+- Maquetación responsiva y semántica HTML5.
+- Accesibilidad web (a11y) y buenas prácticas de SEO.
+- Optimización de performance (assets, CLS/FCP) y organización de CSS.
+- Documentación y comunicación de resultados (métricas Lighthouse).
+
 ## Rol
 Brian lideró UI/UX, semántica, estilos responsivos y mejoras de performance.
 
