@@ -1,32 +1,25 @@
-# ETL de Productos + API Gateway — Proyecto Grupal
+# Portafolio Integrado — Proyecto Grupal
 
 ## Descripción breve
-Pipeline ETL liviano que normaliza un CSV de productos y los expone vía una API gateway simple para consultas.
+Integración y documentación del portafolio grupal, que reúne los proyectos individuales de Brian (Mediplus) y Hector (Proyecto ABP), evidenciando metodología, colaboración y calidad.
 
-## Desafío principal
-Alinear responsabilidades, calidad de datos y exposición de información consistente, con despliegue local reproducible.
+## Objetivo
+Cumplir el requisito de 3 proyectos con un entregable grupal que consolida: investigación de cliente, procesos de trabajo, FODA, evidencias y métricas de ejecución del equipo.
 
-## Solución propuesta
-- ETL: Python + Pandas para limpieza y normalización (tipos, nulos, categorías).  
-- Persistencia: SQLite.  
-- API: Node.js + Express como gateway para consultas filtradas (precio, categoría).  
-- Pipeline: tareas separadas (extract/transform/load) y script de orquestación.
+## Componentes
+- Documentación central (`/docs/*`): investigación, metodología, FODA, entrega.  
+- Plantillas de colaboración: Issues/PRs y verificación anti-TODO.  
+- Enlaces a proyectos individuales con contexto y evidencias.
 
-## Herramientas técnicas
-Python, Pandas, Node.js, Express, SQLite, Pytest, Jest, ESLint, Black/Flake8.
-
-## Principales aprendizajes colectivos
-Definición de contratos de datos, control de calidad (validaciones), revisión cruzada y handover documentado.
-
-## Métricas de impacto (local / ejemplo)
-- Filas procesadas: ~10k en ~3.8 s (transform + load).  
-- Cobertura combinada de pruebas: ~55% líneas.  
-- Fallos en CI local: 0 tras revisión cruzada.
+## Métricas de colaboración (ejemplo)
+- 4+ PRs revisadas cruzadamente.  
+- Lead time medio PR: < 24 h.  
+- 0 fallos en workflow anti-TODO en main.
 
 ## Roles
-- Hector Ruiz — Backend/API Gateway, CI básico, pruebas de integración.  
-- Brian Luna — ETL y validación de datos, documentación y demo UI simple.
+- Hector Ruiz — Mantenimiento de flujo de PRs, calidad técnica.  
+- Brian Luna — Documentación, presentación y evidencias.
 
 ## Evidencias
-- Diagrama simple del flujo ETL → DB → API (incluido en presentación).  
-- Capturas de pruebas y consultas a la API.
+- PRs/Issues con revisión cruzada.  
+- Presentación final (Slides/PDF) y `ENTREGA_COMPILADA.md`.

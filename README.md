@@ -6,13 +6,11 @@ Periodo: 2025
 > Nota: Este repositorio está preparado para ser publicado en GitHub. Completen y ajusten según su experiencia real.
 
 ## 📌 Resumen
-Portafolio técnico grupal con 3 proyectos representativos (2 individuales + 1 grupal), investigación de cliente objetivo, metodología de trabajo y matriz FODA.
+Portafolio técnico grupal con 2 proyectos individuales y 1 proyecto grupal de integración/documentación, investigación de cliente objetivo, metodología de trabajo y matriz FODA.
 
 ## 👥 Integrantes y roles
 - Hector Ruiz — Backend & APIs, automatización CI/CD, testing básico.
 - Brian Luna — Frontend & Data Viz, documentación, QA funcional.
-
-> Asunción inicial para avanzar rápido. Modifiquen roles si prefieren otra distribución.
 
 ## 🧭 Cliente objetivo sugerido: Mercado Libre (MELI)
 Ajusten si eligen otra empresa. Resumen:
@@ -36,11 +34,14 @@ Ajusten si eligen otra empresa. Resumen:
 3) ¿Cómo es su pipeline CI/CD (stages, gates, aprobaciones) y flujo de PRs?
 
 ## 🗂️ Proyectos
-- Proyecto Individual — Hector: `proyectos/hector-proyecto-1/`  
-- Proyecto Individual — Brian: `proyectos/brian-proyecto-1/`  
-- Proyecto Grupal: `proyectos/proyecto-grupal-1/`
-
-Cada carpeta incluye un README con: descripción, desafío, solución, herramientas, aprendizajes, métricas, habilidades y rol.
+- Proyecto Individual — Brian: Mediplus (Landing responsiva)  
+  - Código: https://github.com/panxor19/tarea-6-y-7-mediplus  
+  - README: `proyectos/brian-proyecto-1/README.md`
+- Proyecto Individual — Hector: Proyecto ABP (Aplicación CRUD)  
+  - Código: https://github.com/panxor19/Proyecto_ABP  
+  - README: `proyectos/hector-proyecto-1/README.md`
+- Proyecto Grupal — Portafolio Integrado (documentación y evidencias)  
+  - README: `proyectos/proyecto-grupal-1/README.md`
 
 ## 🤝 Cómo trabajamos
 Kanban ligero, ramas `feat/*`, PR con revisión cruzada, DoD con tests básicos y README actualizado.  

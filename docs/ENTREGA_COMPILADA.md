@@ -18,17 +18,14 @@ Se incluye la versión extendida en `Investigacion_Cliente.md`.
 - Preguntas para entrevista (3)
 
 ## 3. Portafolio técnico grupal
-- Proyecto — Hector: API REST de Catálogo (CRUD)  
-  - Stack: Node.js + Express + SQLite  
-  - Métricas: p95 ~120 ms; 15 tests; 65% cobertura.  
-- Proyecto — Brian: Dashboard de Ventas (React)  
-  - Stack: React + Chart.js + Tailwind  
-  - Métricas: Lighthouse 92; ~1.2 s TTFB local; 50% cobertura UI.  
-- Proyecto Grupal: ETL + API Gateway  
-  - Stack: Python (Pandas) + Node.js (Express) + SQLite  
-  - Métricas: 10k filas en ~3.8 s; ~55% cobertura combinada.
-
-Detalles completos en `proyectos/*/README.md`.
+- Brian: Mediplus (Landing responsiva)  
+  - Código fuente: https://github.com/panxor19/tarea-6-y-7-mediplus  
+  - Detalle: `proyectos/brian-proyecto-1/README.md`  
+- Hector: Proyecto ABP (Aplicación CRUD)  
+  - Código fuente: https://github.com/panxor19/Proyecto_ABP  
+  - Detalle: `proyectos/hector-proyecto-1/README.md`  
+- Proyecto Grupal: Portafolio Integrado (documentación y evidencias)  
+  - Detalle: `proyectos/proyecto-grupal-1/README.md`
 
 ## 4. Metodología y trabajo en equipo
 - Kanban ligero, PRs con revisión cruzada, DoD con tests y docs.  

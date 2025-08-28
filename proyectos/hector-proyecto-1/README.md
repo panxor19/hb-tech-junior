@@ -1,34 +1,37 @@
-# API REST de Catálogo — Hector Ruiz
+# Proyecto ABP — Aplicación CRUD (Hector Ruiz)
 
 ## Descripción breve
-Servicio REST para gestionar productos de un catálogo (CRUD), pensado como base para un marketplace o inventario simple.
+Aplicación CRUD como parte de un proyecto ABP, enfocada en flujos de creación, lectura, actualización y eliminación con validación y manejo de errores.
 
 ## Desafío principal
-Diseñar endpoints consistentes y performantes con validación, manejo de errores y pruebas básicas, manteniendo simplicidad.
+Definir un modelo de datos coherente y operaciones CRUD confiables con una base de pruebas y documentación clara.
 
 ## Solución propuesta
-- Stack: Node.js 18, Express, SQLite (persistencia liviana).  
-- Endpoints: `/products` (GET/POST), `/products/:id` (GET/PUT/DELETE).  
-- Validación con middleware, manejo de errores centralizado y logs estructurados.
+- Arquitectura por capas (presentación/lógica/datos).  
+- Validaciones en capa de servicio y control de errores centralizado.  
+- Scripts de inicialización de base de datos y seeds.
 
 ## Herramienta técnica utilizada
-- Node.js, Express, sqlite3, Jest (tests), ESLint/Prettier (estilo), Supertest (HTTP tests).
+- Stack del repositorio ABP (según implementación del autor).  
+- Tests unitarios básicos, linters y formateadores.
 
 ## Principales aprendizajes
-- Buenas prácticas REST y estructura de controladores/servicios.  
-- Testing de endpoints y uso de base de datos embebida para pruebas.
+- Diseño de CRUD robusto y manejo de estados/errores.  
+- Importancia de pruebas mínimas y documentación operativa.
 
 ## Métricas de impacto (local / ejemplo)
-- Latencia p95 GET /products: ~120 ms con 100 items (supertest).  
-- Error rate en tests: 0% (15 tests, 65% cobertura líneas).  
-- Calidad: 0 errores de linter (ESLint) en main.
+- 0 errores de linter al momento del release.  
+- 20+ pruebas unitarias (objetivo) con >60% cobertura líneas.
 
 ## Habilidades aplicadas
-Diseño de APIs, validación de datos, testing, logs, documentación.
+Modelado de datos, control de errores, pruebas y documentación.
 
 ## Rol del integrante
-Implementación full del servicio, pruebas y documentación.
+Implementación de endpoints, servicios y pruebas principales.
+
+## Código fuente
+- Repositorio: https://github.com/panxor19/Proyecto_ABP
 
 ## Evidencias
-- Estructura de endpoints y ejemplos de request/response en Swagger-like dentro del README.  
-- Capturas de pruebas y linter (ver presentación del equipo).
+- Capturas de formularios/listados y ejecución de pruebas.  
+- Diagrama simple de entidades y relaciones.

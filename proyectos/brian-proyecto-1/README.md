@@ -1,34 +1,37 @@
-# Dashboard de Ventas — Brian Luna
+# Mediplus — Landing Responsiva (Brian Luna)
 
 ## Descripción breve
-Aplicación web que visualiza métricas de ventas (ingresos, tickets, conversión) con filtros por rango de fechas y categoría.
+Landing page responsiva para la marca Mediplus, enfocada en estructura semántica, estilos modernos y compatibilidad móvil.
 
 ## Desafío principal
-Renderizar gráficos fluidos y mantener estado consistente con datos simulados, priorizando usabilidad y claridad visual.
+Mantener accesibilidad, consistencia visual y buen rendimiento en dispositivos diversos con una base HTML/CSS/JS clara.
 
 ## Solución propuesta
-- Stack: React 18, Vite, Chart.js, TailwindCSS.  
-- Componentes: tarjetas de KPIs, gráficos de líneas/barras, filtros controlados.  
-- Estado: hooks y lifting state; simulación de datos con seed estable.
+- Estructura semántica HTML5, CSS modular (utilidades y componentes).  
+- Animaciones/transiciones suaves y navegación responsiva (hamburger menu).  
+- Mejora de rendimiento con assets optimizados y carga diferida donde aplica.
 
 ## Herramienta técnica utilizada
-- React, Chart.js, TailwindCSS, Testing Library (tests UI), ESLint.
+- HTML5, CSS3 (flexbox/grid), JavaScript básico.
 
 ## Principales aprendizajes
-- Patrón de componentes presentacionales vs contenedores.  
-- Pruebas de accesibilidad básicas y testeo de interacción (inputs/filtros).
+- Maquetación responsiva mobile-first.  
+- Accesibilidad básica (roles ARIA, contraste, semántica).  
+- Optimización de recursos y jerarquía visual.
 
 ## Métricas de impacto (local / ejemplo)
-- Performance (Lighthouse): 92/100 en dev build.  
-- Tiempo de render inicial: ~1.2 s en entorno local.  
-- Cobertura de pruebas UI: ~50% líneas (componentes críticos).
+- Lighthouse (Performance/Accessibility/Best Practices/SEO): ~90+/90+/90+/95+.  
+- Peso total de página inicial < 200 KB (optimización de imágenes).
 
 ## Habilidades aplicadas
-Diseño UI, data viz, accesibilidad básica, pruebas de interfaz, documentación.
+Maquetación, accesibilidad, performance web, documentación.
 
 ## Rol del integrante
-Implementación de UI, lógica de filtros y pruebas de componentes.
+Implementación de UI, estructura semántica y ajustes de rendimiento.
+
+## Código fuente
+- Repositorio: https://github.com/panxor19/tarea-6-y-7-mediplus
 
 ## Evidencias
-- Capturas de la UI y del reporte de Lighthouse (ver presentación).  
-- GIF corto de interacción con filtros.
+- Capturas de la landing y reporte Lighthouse.  
+- GIF de navegación en móvil.
