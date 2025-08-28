@@ -41,7 +41,7 @@ https://github.com/panxor19/hb-tech-junior
 - Proyecto ABP (Aplicación CRUD) — Hector  
   Código: https://github.com/panxor19/Proyecto_ABP
 - Portafolio Integrado (proyecto grupal)  
-  Detalle: `proyectos/proyecto-grupal-1/README.md`
+  Detalle: `proyectos/03-portafolio-integrado-grupal/README.md`
 
 ---
 
