@@ -1,50 +1,50 @@
-# Portafolio Integrado HB Tech Junior - Proyecto Grupal
-*Hector Ruiz & Brian Luna - Colaboración Full-Stack*
+﻿# Portafolio Integrado HB Tech Junior - Proyecto Grupal
+*Hector Ruiz & Brian Luna - ColaboraciÃ³n Full-Stack*
 
-## 📋 Descripción del proyecto grupal
-Proyecto integrador que consolida y unifica el trabajo de ambos integrantes del equipo HB Tech Junior. Combina las fortalezas individuales en backend (Hector) y frontend (Brian) para crear un portafolio técnico cohesivo que demuestra capacidades de colaboración, metodología de trabajo y calidad profesional.
+## ðŸ“‹ DescripciÃ³n del proyecto grupal
+Proyecto integrador que consolida y unifica el trabajo de ambos integrantes del equipo HB Tech Junior. Combina las fortalezas individuales en backend (Hector) y frontend (Brian) para crear un portafolio tÃ©cnico cohesivo que demuestra capacidades de colaboraciÃ³n, metodologÃ­a de trabajo y calidad profesional.
 
-## 🎯 Objetivo principal y alcance
-**Objetivo:** Evidenciar competencias técnicas individuales y grupales mediante:
-- Integración de proyectos individuales en un ecosistema coherente
-- Documentación profesional de metodología y procesos
-- Demostración de capacidades de trabajo en equipo
-- Presentación estructurada para evaluación académica y profesional
+## ðŸŽ¯ Objetivo principal y alcance
+**Objetivo:** Evidenciar competencias tÃ©cnicas individuales y grupales mediante:
+- IntegraciÃ³n de proyectos individuales en un ecosistema coherente
+- DocumentaciÃ³n profesional de metodologÃ­a y procesos
+- DemostraciÃ³n de capacidades de trabajo en equipo
+- PresentaciÃ³n estructurada para evaluaciÃ³n acadÃ©mica y profesional
 
 **Alcance del proyecto:**
-- ✅ Consolidación de 2 proyectos individuales + 1 proyecto grupal
-- ✅ Documentación técnica completa de cada componente
-- ✅ Evidencia de colaboración y metodología aplicada
-- ✅ Investigación de cliente objetivo (Mercado Libre)
-- ✅ Análisis FODA del equipo para crecimiento profesional
-- ✅ Repositorio GitHub organizado y profesional
+- âœ… ConsolidaciÃ³n de 2 proyectos individuales + 1 proyecto grupal
+- âœ… DocumentaciÃ³n tÃ©cnica completa de cada componente
+- âœ… Evidencia de colaboraciÃ³n y metodologÃ­a aplicada
+- âœ… InvestigaciÃ³n de cliente objetivo (Mercado Libre)
+- âœ… AnÃ¡lisis FODA del equipo para crecimiento profesional
+- âœ… Repositorio GitHub organizado y profesional
 
-## 🏗 Arquitectura del portafolio integrado
+## ðŸ— Arquitectura del portafolio integrado
 ### Estructura del repositorio
 ```
 hb-tech-junior/
-├── docs/                           # Documentación central
-│   ├── ENTREGA_FINAL.md           # Documento principal
-│   ├── Investigacion_Cliente.md    # Análisis MELI
-│   ├── METODOLOGIA_Y_TRABAJO_EN_EQUIPO.md
-│   └── FODA_Grupal.md             # Análisis SWOT
-├── proyectos/                      # Proyectos técnicos
-│   ├── 01-landing-mediplus-brian/  # Frontend project
-│   ├── 02-crud-abp-hector/        # Backend project  
-│   └── 03-portafolio-integrado-grupal/  # Este proyecto
-└── scripts/                        # Automatización
-    └── export-word.ps1            # Export a PDF/Word
+â”œâ”€â”€ docs/                           # DocumentaciÃ³n central
+â”‚   â”œâ”€â”€ ENTREGA_FINAL.md           # Documento principal
+â”‚   â”œâ”€â”€ Investigacion_Cliente.md    # AnÃ¡lisis MELI
+â”‚   â”œâ”€â”€ METODOLOGIA_Y_TRABAJO_EN_EQUIPO.md
+â”‚   â””â”€â”€ FODA_Grupal.md             # AnÃ¡lisis SWOT
+â”œâ”€â”€ proyectos/                      # Proyectos tÃ©cnicos
+â”‚   â”œâ”€â”€ 01-landing-mediplus-brian/  # Frontend project
+â”‚   â”œâ”€â”€ 02-crud-abp-hector/        # Backend project  
+â”‚   â””â”€â”€ 03-portafolio-integrado-grupal/  # Este proyecto
+â””â”€â”€ scripts/                        # AutomatizaciÃ³n
+    â””â”€â”€ export-word.ps1            # Export a PDF/Word
 ```
 
 ### Componentes integrados
 1. **Frontend (Brian):** Landing Mediplus - Sitio responsivo optimizado
 2. **Backend (Hector):** Sistema CRUD ABP - API completa con testing
-3. **Integración (Grupal):** Documentación, metodología y presentación
+3. **IntegraciÃ³n (Grupal):** DocumentaciÃ³n, metodologÃ­a y presentaciÃ³n
 
-## 🤝 Metodología de trabajo aplicada
-### Framework de colaboración
-- **Gestión:** Kanban ligero con ciclos semanales
-- **Comunicación:** Dailies de 15 min + retrospectivas semanales
+## ðŸ¤ MetodologÃ­a de trabajo aplicada
+### Framework de colaboraciÃ³n
+- **GestiÃ³n:** Kanban ligero con ciclos semanales
+- **ComunicaciÃ³n:** Dailies de 15 min + retrospectivas semanales
 - **Versionado:** Git flow con feature branches y PRs obligatorias
 - **Calidad:** Code reviews cruzadas + Definition of Done estricta
 
@@ -58,192 +58,194 @@ D --> E[Done]
 ```
 
 **Definition of Done (DoD):**
-- ✅ Código formateado según estándares del proyecto
-- ✅ Linters sin errores o warnings críticos
-- ✅ README actualizado con cambios relevantes
-- ✅ Tests unitarios pasando (cuando aplica)
-- ✅ Peer review completado y aprobado
-- ✅ Documentación técnica actualizada
+- âœ… CÃ³digo formateado segÃºn estÃ¡ndares del proyecto
+- âœ… Linters sin errores o warnings crÃ­ticos
+- âœ… README actualizado con cambios relevantes
+- âœ… Tests unitarios pasando (cuando aplica)
+- âœ… Peer review completado y aprobado
+- âœ… DocumentaciÃ³n tÃ©cnica actualizada
 
-### Herramientas de colaboración
+### Herramientas de colaboraciÃ³n
 - **GitHub:** Repositorio, issues, PRs, project board
 - **Git:** Control de versiones con branching strategy
-- **Markdown:** Documentación estandarizada
-- **PowerShell:** Scripts de automatización para exports
+- **Markdown:** DocumentaciÃ³n estandarizada
+- **PowerShell:** Scripts de automatizaciÃ³n para exports
 
-## 📊 Métricas de colaboración alcanzadas
-### Estadísticas del proyecto
+## ðŸ“Š MÃ©tricas de colaboraciÃ³n alcanzadas
+### EstadÃ­sticas del proyecto
 - **Pull Requests:** 12 PRs creados, 11 merged, 1 closed
 - **Code Reviews:** 100% de PRs con al menos 1 review
 - **Lead Time promedio:** <24 horas por PR
 - **Issues gestionados:** 8 creados, 8 resueltos
 - **Commits:** 47 commits distribuidos entre ambos miembros
-- **Documentación:** 6 archivos MD principales + READMEs detallados
+- **DocumentaciÃ³n:** 6 archivos MD principales + READMEs detallados
 
-### Distribución de trabajo
+### DistribuciÃ³n de trabajo
 **Hector Ruiz (50% - Backend & DevOps):**
 - Arquitectura del repositorio y estructura inicial  
-- Documentación técnica y metodología
-- Setup de automatización (scripts de export)
-- Code reviews y control de calidad técnica
-- Integración de proyectos individuales
+- DocumentaciÃ³n tÃ©cnica y metodologÃ­a
+- Setup de automatizaciÃ³n (scripts de export)
+- Code reviews y control de calidad tÃ©cnica
+- IntegraciÃ³n de proyectos individuales
 
 **Brian Luna (50% - Frontend & Docs):**
-- Diseño de documentación y estructura visual
-- Redacción de contenido para presentación final
-- Investigación de cliente (Mercado Libre)
+- DiseÃ±o de documentaciÃ³n y estructura visual
+- RedacciÃ³n de contenido para presentaciÃ³n final
+- InvestigaciÃ³n de cliente (Mercado Libre)
 - Evidencias visuales y capturas de pantalla
-- UX de la documentación y navegabilidad
+- UX de la documentaciÃ³n y navegabilidad
 
-## 🔍 Investigación de cliente - Mercado Libre
-### Análisis realizado
-Seleccionamos **Mercado Libre (MELI)** como empresa objetivo basándonos en:
-- Escala y complejidad técnica alineada con nuestro crecimiento
-- Stack tecnológico moderno (microservicios, Kubernetes, ML)
-- Cultura de ingeniería sólida y bien documentada
+## ðŸ” InvestigaciÃ³n de cliente - Mercado Libre
+### AnÃ¡lisis realizado
+Seleccionamos **Mercado Libre (MELI)** como empresa objetivo basÃ¡ndonos en:
+- Escala y complejidad tÃ©cnica alineada con nuestro crecimiento
+- Stack tecnolÃ³gico moderno (microservicios, Kubernetes, ML)
+- Cultura de ingenierÃ­a sÃ³lida y bien documentada
 - Oportunidades de aprendizaje en e-commerce y fintech
 
 ### Propuesta de valor HB Tech Junior
 **Como podemos sumar:**
-1. **Prototipos rápidos:** MVPs y POCs para validar ideas de negocio
-2. **Automatización básica:** Scripts ETL, linters, testing básico  
-3. **Observabilidad inicial:** Métricas, logs, dashboards de arranque
-4. **Documentación:** Technical writing y knowledge transfer
+1. **Prototipos rÃ¡pidos:** MVPs y POCs para validar ideas de negocio
+2. **AutomatizaciÃ³n bÃ¡sica:** Scripts ETL, linters, testing bÃ¡sico  
+3. **Observabilidad inicial:** MÃ©tricas, logs, dashboards de arranque
+4. **DocumentaciÃ³n:** Technical writing y knowledge transfer
 
-## 💪 Habilidades grupales demostradas
-### Técnicas
+## ðŸ’ª Habilidades grupales demostradas
+### TÃ©cnicas
 **Frontend + Backend integration:**
-- Comprensión de arquitecturas full-stack
+- ComprensiÃ³n de arquitecturas full-stack
 - APIs RESTful y consumo desde frontend
 - Performance optimization en ambos extremos
-- Testing e integration testing básico
+- Testing e integration testing bÃ¡sico
 
 **DevOps y tooling:**
 - Git workflows avanzados con branching
-- Automatización de procesos repetitivos
+- AutomatizaciÃ³n de procesos repetitivos
 - Documentation as code con Markdown
 - CI/CD concepts (aplicados manualmente)
 
-**Metodología y proceso:**
-- Agile/Scrum adaptado a equipos pequeños
-- Code review sistemático y constructivo
+**MetodologÃ­a y proceso:**
+- Agile/Scrum adaptado a equipos pequeÃ±os
+- Code review sistemÃ¡tico y constructivo
 - Technical debt management
 - Stakeholder communication (simulado)
 
 ### Blandas
-**Comunicación y colaboración:**
-- Claridad en definición de requisitos y scope
+**ComunicaciÃ³n y colaboraciÃ³n:**
+- Claridad en definiciÃ³n de requisitos y scope
 - Feedback constructivo en reviews
-- Documentación para audiencias técnicas y no técnicas
+- DocumentaciÃ³n para audiencias tÃ©cnicas y no tÃ©cnicas
 - Presentation skills para stakeholders
 
-**Liderazgo técnico:**
+**Liderazgo tÃ©cnico:**
 - Toma de decisiones arquitecturales consensuadas
-- Mentoring mutuo en áreas de especialización
+- Mentoring mutuo en Ã¡reas de especializaciÃ³n
 - Problem solving colaborativo
 - Knowledge sharing y documentation
 
-## 📈 Resultados y evidencias del trabajo grupal
+## ðŸ“ˆ Resultados y evidencias del trabajo grupal
 ### Deliverables completados
-- ✅ **Repositorio GitHub:** Estructura profesional y navegable
-- ✅ **Documentación técnica:** 6 documentos MD + READMEs detallados  
-- ✅ **Proyectos individuales:** 2 proyectos completos documentados
-- ✅ **Investigación cliente:** Análisis detallado con fuentes
-- ✅ **Metodología:** Proceso documentado con métricas reales
-- ✅ **Entrega final:** PDF/DOCX exportable para presentación
+- âœ… **Repositorio GitHub:** Estructura profesional y navegable
+- âœ… **DocumentaciÃ³n tÃ©cnica:** 6 documentos MD + READMEs detallados  
+- âœ… **Proyectos individuales:** 2 proyectos completos documentados
+- âœ… **InvestigaciÃ³n cliente:** AnÃ¡lisis detallado con fuentes
+- âœ… **MetodologÃ­a:** Proceso documentado con mÃ©tricas reales
+- âœ… **Entrega final:** PDF/DOCX exportable para presentaciÃ³n
 
-### Calidad de la documentación
+### Calidad de la documentaciÃ³n
 - **Consistencia:** Estructura y formato uniforme en todos los docs
-- **Completitud:** Todos los puntos de la rúbrica cubiertos
-- **Profesionalismo:** Tono apropiado y presentación cuidada
-- **Accesibilidad:** Navegación clara y enlaces funcionales
+- **Completitud:** Todos los puntos de la rÃºbrica cubiertos
+- **Profesionalismo:** Tono apropiado y presentaciÃ³n cuidada
+- **Accesibilidad:** NavegaciÃ³n clara y enlaces funcionales
 
 ### Evidence artifacts
 - Screenshots de proyectos individuales funcionando
-- Capturas de métricas de performance (Lighthouse, tests)
+- Capturas de mÃ©tricas de performance (Lighthouse, tests)
 - Historial de Git con commits y PRs documentados
-- Scripts de automatización funcionales
+- Scripts de automatizaciÃ³n funcionales
 
-## 🎓 Aprendizajes colectivos del equipo
-### Metodológicos
-- **Pair programming remoto:** Técnicas efectivas para colaboración
+## ðŸŽ“ Aprendizajes colectivos del equipo
+### MetodolÃ³gicos
+- **Pair programming remoto:** TÃ©cnicas efectivas para colaboraciÃ³n
 - **Documentation-driven development:** Docs como source of truth
-- **Continuous integration mindset:** Pequeños cambios frecuentes
-- **Stakeholder management:** Presentación técnica para audiencias mixtas
+- **Continuous integration mindset:** PequeÃ±os cambios frecuentes
+- **Stakeholder management:** PresentaciÃ³n tÃ©cnica para audiencias mixtas
 
-### Técnicos
-- **Full-stack awareness:** Comprensión del ciclo completo de desarrollo
-- **Quality gates:** Implementación de controles de calidad en pipeline
-- **Performance consciousness:** Optimización desde diseño hasta deployment
-- **Maintainability:** Código y docs pensados para el futuro
+### TÃ©cnicos
+- **Full-stack awareness:** ComprensiÃ³n del ciclo completo de desarrollo
+- **Quality gates:** ImplementaciÃ³n de controles de calidad en pipeline
+- **Performance consciousness:** OptimizaciÃ³n desde diseÃ±o hasta deployment
+- **Maintainability:** CÃ³digo y docs pensados para el futuro
 
 ### Organizacionales  
-- **Scope management:** Priorización efectiva y time-boxing
-- **Risk mitigation:** Identificación temprana de blockers
-- **Knowledge transfer:** Documentación como herramienta de escalabilidad
+- **Scope management:** PriorizaciÃ³n efectiva y time-boxing
+- **Risk mitigation:** IdentificaciÃ³n temprana de blockers
+- **Knowledge transfer:** DocumentaciÃ³n como herramienta de escalabilidad
 - **Retrospective mindset:** Mejora continua del proceso
 
-## 👥 Roles específicos en el proyecto grupal
+## ðŸ‘¥ Roles especÃ­ficos en el proyecto grupal
 ### Hector Ruiz - Tech Lead & Backend Specialist
 **Responsabilidades principales:**
 - Arquitectura del repositorio y estructura de directorios
-- Setup de herramientas de desarrollo y scripts de automatización  
-- Code reviews técnicos y mentoring en buenas prácticas
-- Integración de proyectos individuales en ecosistema cohesivo
-- Quality assurance y control de estándares técnicos
+- Setup de herramientas de desarrollo y scripts de automatizaciÃ³n  
+- Code reviews tÃ©cnicos y mentoring en buenas prÃ¡cticas
+- IntegraciÃ³n de proyectos individuales en ecosistema cohesivo
+- Quality assurance y control de estÃ¡ndares tÃ©cnicos
 
-**Contribuciones específicas:**
-- Creación del flujo Git con feature branches
-- Implementación del script PowerShell para export PDF/Word
-- Definición y aplicación de Definition of Done
-- Documentación de metodología técnica aplicada
+**Contribuciones especÃ­ficas:**
+- CreaciÃ³n del flujo Git con feature branches
+- ImplementaciÃ³n del script PowerShell para export PDF/Word
+- DefiniciÃ³n y aplicaciÃ³n de Definition of Done
+- DocumentaciÃ³n de metodologÃ­a tÃ©cnica aplicada
 
 ### Brian Luna - Content Lead & Frontend Specialist  
 **Responsabilidades principales:**
-- Diseño de experiencia de usuario de la documentación
-- Research y redacción de investigación de cliente
-- Creación de contenido para presentación final
+- DiseÃ±o de experiencia de usuario de la documentaciÃ³n
+- Research y redacciÃ³n de investigaciÃ³n de cliente
+- CreaciÃ³n de contenido para presentaciÃ³n final
 - Evidencias visuales y screenshots de proyectos
 - UX writing y tone of voice del portafolio
 
-**Contribuciones específicas:**
-- Investigación detallada de Mercado Libre con fuentes
-- Redacción de documentos finales con tono profesional
-- Organización de evidencias y capturas de pantalla  
-- Diseño de estructura narrativa del portafolio
+**Contribuciones especÃ­ficas:**
+- InvestigaciÃ³n detallada de Mercado Libre con fuentes
+- RedacciÃ³n de documentos finales con tono profesional
+- OrganizaciÃ³n de evidencias y capturas de pantalla  
+- DiseÃ±o de estructura narrativa del portafolio
 
-## 🚀 Cómo navegar y evaluar este proyecto grupal
-### Para evaluadores académicos
+## ðŸš€ CÃ³mo navegar y evaluar este proyecto grupal
+### Para evaluadores acadÃ©micos
 1. **Revisar entrega principal:** `docs/ENTREGA_FINAL.md` o `.pdf`
 2. **Explorar proyectos individuales:** Carpetas `proyectos/01-*` y `proyectos/02-*`
-3. **Analizar metodología:** `docs/METODOLOGIA_Y_TRABAJO_EN_EQUIPO.md`
-4. **Verificar investigación:** `docs/Investigacion_Cliente.md`
+3. **Analizar metodologÃ­a:** `docs/METODOLOGIA_Y_TRABAJO_EN_EQUIPO.md`
+4. **Verificar investigaciÃ³n:** `docs/Investigacion_Cliente.md`
 
-### Para reclutadores técnicos
+### Para reclutadores tÃ©cnicos
 1. **GitHub repository:** https://github.com/panxor19/hb-tech-junior
-2. **Individual projects:** Links directos a repos de proyectos específicos
+2. **Individual projects:** Links directos a repos de proyectos especÃ­ficos
 3. **Technical documentation:** READMEs detallados con setup instructions
 4. **Collaboration evidence:** Git history, PRs, issues management
 
-## 🔗 Enlaces y recursos del proyecto grupal
+## ðŸ”— Enlaces y recursos del proyecto grupal
 - **Repositorio principal:** https://github.com/panxor19/hb-tech-junior
 - **Proyecto Frontend (Brian):** https://github.com/panxor19/tarea-6-y-7-mediplus  
 - **Proyecto Backend (Hector):** https://github.com/panxor19/Proyecto_ABP
-- **Documentación completa:** Todos los archivos en `/docs`
-- **Scripts de automatización:** `/scripts/export-word.ps1`
+- **DocumentaciÃ³n completa:** Todos los archivos en `/docs`
+- **Scripts de automatizaciÃ³n:** `/scripts/export-word.ps1`
 
-## 📝 Reflexión final del proyecto integrador
-Este proyecto grupal representa la culminación de nuestro aprendizaje en el curso, integrando competencias técnicas individuales con habilidades de colaboración profesional. 
+## ðŸ“ ReflexiÃ³n final del proyecto integrador
+Este proyecto grupal representa la culminaciÃ³n de nuestro aprendizaje en el curso, integrando competencias tÃ©cnicas individuales con habilidades de colaboraciÃ³n profesional. 
 
 **Logros destacados:**
-- Integración exitosa de especialidades complementarias (frontend/backend)
-- Metodología de trabajo estructurada y documentada
-- Calidad profesional en deliverables y presentación
+- IntegraciÃ³n exitosa de especialidades complementarias (frontend/backend)
+- MetodologÃ­a de trabajo estructurada y documentada
+- Calidad profesional en deliverables y presentaciÃ³n
 - Evidence-based approach para demostrar competencias
 
 **Impacto en crecimiento profesional:**
-- **Hector:** Fortalecimiento en documentation, presentation y metodología
+- **Hector:** Fortalecimiento en documentation, presentation y metodologÃ­a
 - **Brian:** Desarrollo de research skills y technical writing avanzado
-- **Equipo:** Demostración de readiness para colaboración en equipos profesionales
+- **Equipo:** DemostraciÃ³n de readiness para colaboraciÃ³n en equipos profesionales
 
-Este portafolio integrado evidencia nuestra capacidad para trabajar en equipo, entregar resultados de calidad y comunicar efectivamente nuestras competencias técnicas a stakeholders diversos, preparándonos para el siguiente nivel de nuestra carrera profesional en tecnología.
+Este portafolio integrado evidencia nuestra capacidad para trabajar en equipo, entregar resultados de calidad y comunicar efectivamente nuestras competencias tÃ©cnicas a stakeholders diversos, preparÃ¡ndonos para el siguiente nivel de nuestra carrera profesional en tecnologÃ­a.
+
+

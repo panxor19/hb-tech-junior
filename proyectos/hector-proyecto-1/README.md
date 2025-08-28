@@ -1,10 +1,10 @@
 # Proyecto ABP - Sistema CRUD Completo
 *Hector Ruiz - Desarrollo Backend*
 
-## 📋 Descripción del proyecto
+## Descripción del proyecto
 Sistema de gestión CRUD (Create, Read, Update, Delete) desarrollado como proyecto individual del curso. Permite administrar entidades de negocio con validaciones robustas, manejo de errores y documentación completa para facilitar el mantenimiento y escalabilidad.
 
-## 🎯 Contexto y desafío principal
+## Contexto y desafío principal
 **El desafío:** Crear una aplicación backend completa que demuestre dominio en:
 - Diseño de arquitectura por capas
 - Implementación de operaciones CRUD eficientes
@@ -14,7 +14,7 @@ Sistema de gestión CRUD (Create, Read, Update, Delete) desarrollado como proyec
 
 **Motivación:** Simular el desarrollo de un sistema real de gestión empresarial con estándares profesionales.
 
-## 🔧 Solución implementada
+## Solución implementada
 ### Arquitectura
 - **Capa de presentación:** Controladores REST con validaciones de entrada
 - **Capa de negocio:** Servicios con lógica empresarial y validaciones
@@ -22,15 +22,15 @@ Sistema de gestión CRUD (Create, Read, Update, Delete) desarrollado como proyec
 - **Cross-cutting concerns:** Logging, manejo de excepciones, configuración
 
 ### Características principales
-- ✅ API RESTful con endpoints estandarizados
-- ✅ Validaciones tanto en frontend como backend
+- Checkmark API RESTful con endpoints estandarizados
+- Checkmark Validaciones tanto en frontend como backend
 - ✅ Manejo centralizado de errores con códigos HTTP apropiados
 - ✅ Logging estructurado para debugging y monitoreo
 - ✅ Tests unitarios con cobertura >60%
 - ✅ Documentación de API con ejemplos de uso
 - ✅ Scripts de inicialización y seed data
 
-## 🛠 Stack tecnológico y herramientas
+## Stack tecnológico y herramientas
 **Backend:**
 - Framework: [Especificar según proyecto real - ej. Spring Boot, Express.js, Django]
 - Base de datos: [Especificar - ej. PostgreSQL, MySQL, MongoDB]
@@ -47,7 +47,7 @@ Sistema de gestión CRUD (Create, Read, Update, Delete) desarrollado como proyec
 - Scripts de setup automatizado
 - Configuración por ambientes (dev/prod)
 
-## 📊 API Endpoints principales
+## API Endpoints principales
 ```
 GET    /api/items          - Listar todas las entidades
 GET    /api/items/{id}     - Obtener entidad específica
@@ -65,7 +65,7 @@ GET    /api/items/search?q - Búsqueda con filtros
 - 404: Recurso no encontrado
 - 500: Error interno del servidor
 
-## 📈 Resultados y métricas alcanzadas
+## Resultados y métricas alcanzadas
 **Calidad de código:**
 - ✅ 0 errores de linter en versión final
 - ✅ Cobertura de tests: 65% (objetivo: >60%)
@@ -82,7 +82,7 @@ GET    /api/items/search?q - Búsqueda con filtros
 - ✅ Comentarios en código para lógica compleja
 - ✅ Diagramas de arquitectura y modelo de datos
 
-## 🎓 Principales aprendizajes
+## Principales aprendizajes
 ### Técnicos
 - **Arquitectura limpia:** Separación clara de responsabilidades en capas
 - **API Design:** Principios REST, versionado, y consistencia en responses
@@ -96,7 +96,7 @@ GET    /api/items/search?q - Búsqueda con filtros
 - **Debugging:** Técnicas sistemáticas para resolución de problemas
 - **Code review:** Auto-revisión y refactoring continuo
 
-## 💪 Habilidades aplicadas y desarrolladas
+## Habilidades aplicadas y desarrolladas
 **Desarrollo Backend:**
 - Modelado de datos relacionales
 - Diseño e implementación de APIs RESTful
@@ -120,7 +120,7 @@ GET    /api/items/search?q - Búsqueda con filtros
 - Creación de ejemplos de uso y casos de prueba
 - Diagramación de arquitectura y flujos de datos
 
-## 👨‍💻 Rol y responsabilidades
+## Rol y responsabilidades
 Como **desarrollador backend principal**, mis responsabilidades incluyeron:
 
 - **Análisis y diseño:** Definición de arquitectura, modelo de datos y especificación de API
@@ -129,7 +129,7 @@ Como **desarrollador backend principal**, mis responsabilidades incluyeron:
 - **Documentación:** Redacción completa de documentación técnica y de usuario
 - **DevOps básico:** Setup del entorno de desarrollo y scripts de automatización
 
-## 🚀 Cómo probar el proyecto
+## Cómo probar el proyecto
 ### Requisitos previos
 - [Especificar runtime - ej. Node.js 16+, Java 11+, Python 3.9+]
 - [Base de datos - ej. PostgreSQL 13+]
@@ -166,13 +166,13 @@ cd Proyecto_ABP
 [comando si aplica]
 ```
 
-### 🔗 Enlaces importantes
+### Enlaces importantes
 - **Código fuente:** https://github.com/panxor19/Proyecto_ABP
 - **Demo en vivo:** [URL si está desplegado]
 - **Documentación API:** [URL de documentación Swagger/Postman]
 - **Evidencias:** Screenshots y videos en la carpeta `/docs/evidencias`
 
-### 📝 Notas adicionales
+### Notas adicionales
 Este proyecto representa mi evolución en desarrollo backend, desde conceptos básicos de CRUD hasta implementación de arquitecturas robustas con testing y documentación profesional. Cada decisión técnica está fundamentada en buenas prácticas de la industria y principios de ingeniería de software.
 
 **Próximos pasos para mejoras:**
