@@ -14,9 +14,9 @@ Portafolio técnico grupal con 2 proyectos individuales y 1 proyecto grupal de i
 Resumen técnico en `docs/Investigacion_Cliente.md`.
 
 ## 🗂️ Proyectos
-- Brian: Mediplus (Landing responsiva) — Código: https://github.com/panxor19/tarea-6-y-7-mediplus — README: `proyectos/brian-proyecto-1/README.md`
-- Hector: Proyecto ABP (Aplicación CRUD) — Código: https://github.com/panxor19/Proyecto_ABP — README: `proyectos/hector-proyecto-1/README.md`
-- Proyecto Grupal: Portafolio Integrado — README: `proyectos/proyecto-grupal-1/README.md`
+- Brian: Mediplus (Landing responsiva) — Código: https://github.com/panxor19/tarea-6-y-7-mediplus — README: `proyectos/01-landing-mediplus-brian/README.md`
+- Hector: Proyecto ABP (Aplicación CRUD) — Código: https://github.com/panxor19/Proyecto_ABP — README: `proyectos/02-crud-abp-hector/README.md`
+- Proyecto Grupal: Portafolio Integrado — README: `proyectos/03-portafolio-integrado-grupal/README.md`
 
 ## 🤝 Cómo trabajamos
 Metodología y aprendizajes colectivos: `docs/METODOLOGIA_Y_TRABAJO_EN_EQUIIPO.md`.
